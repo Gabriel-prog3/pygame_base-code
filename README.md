@@ -1,7 +1,5 @@
 ```python
 import pygame as pg
-import random
-
 
 pg.font.init()
 FPS = 60
@@ -14,6 +12,8 @@ clock = pg.time.Clock()
 
 
 #variables
+
+
 
 
 def draw_update():
