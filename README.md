@@ -1,4 +1,4 @@
-´´´python
+```python
 import pygame as pg
 import random
 
@@ -25,4 +25,4 @@ while True:
             break
 
     draw_update()
-´´´
+```
