@@ -3,7 +3,7 @@ import pygame as pg
 
 pg.font.init()
 FPS = 60
-WIDTH, HEIGHT = 700, 584
+WIDTH, HEIGHT = 400, 500
 WIN = pg.display.set_mode((WIDTH, HEIGHT))
 clock = pg.time.Clock()
 
